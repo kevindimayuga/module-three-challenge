@@ -38,12 +38,12 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-two-challenge
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-two-challenge/
+- GitHub Repo URL: https://github.com/kevindimayuga/module-three-challenge
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-three-challenge/
 
 ## Webpage Screenshot
 
-![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-two-challenge_.png)
+![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-three-challenge.png)
 
 ## Table of Contents
 

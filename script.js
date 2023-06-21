@@ -43,6 +43,35 @@ function generatePassword() {
     var confirmSpecial = confirm("Click OK to confirm if you would like your password to contain special characters");
   }
 
+    var passwordCharacters = []
+      
+    if (confirmLower) {
+      passwordCharacters = passwordCharacters.concat(lowerCaseAlphabet)
+    }
+
+    if (confirmUpper) {
+      passwordCharacters = passwordCharacters.concat(upperCaseAlphabet)
+    }
+
+    if (confirmNumeric) {
+      passwordCharacters = passwordCharacters.concat(numericCharacters)
+    }
+
+    if (confirmSpecial) {
+      passwordCharacters = passwordCharacters.concat(specialCharacters)
+    }
+    
+    // This will log into the console
+    console.log(passwordCharacters)
+
+    // This variable will generate the random password based on the below for loop selecting random characters from the variable arrays above
+    var randomPassword = ""
+      for (var i = 0; i < confirmPasswordLength; i++) {
+        randomPassword = randomPassword + passwordCharacters[Math.floor(Math.random() * passwordCharacters.length)];
+        console.log(randomPassword)
+      }
+      return randomPassword;
+
 }
 
 // Write password to the #password input

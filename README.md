@@ -1,4 +1,4 @@
-# Module 3 Challenge - JavaScript Professional Portfolio
+# Module 3 Challenge - JavaScript Password Generator
 
 This repo is for module three's challenge assignment.
 
@@ -59,10 +59,8 @@ The following steps were taken to complete the project:
 - Review the basics to starting a web application
 - Review semantic HTML elements and structure
 - Review CSS and advanced CSS
+- Review JavaScript
 - Review code accessibility standards
-- Add projects/work to Portfolio
-- Add resume to Portfolio
-- Add About Me, My Work and Contact Me Sections to Portfolio
 - Create Professional README file
 - Add website image to README file
 - Deploy website to GitHub Pages
@@ -87,10 +85,11 @@ JavaScript Updates
 
 ## Usage
 
-- Use the navigation bar to navigate to various parts of the website (About Me, Work, Contact Me, Resume)
-- Read the "About Me" description to get an overview about me.
-- Hover over each image link in the "My Work" section to view various projects that I have completed throughout my course and professional work.
-- Use the "Contact Me" section to get contact information or other social media information (GitHub, Twitter, etc.)
+- Go to the Password Generator web application
+- Click on "Generate Password" to begin password generation process
+- Follow the prompts and fill in the criteria you are looking for in a random-generated password
+- Once you complete each prompt, a secured and random password will be created in the middle of the form
+- You can now use that password for your accounts/logins
 
 ## Credits
 

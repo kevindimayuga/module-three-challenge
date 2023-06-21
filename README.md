@@ -95,31 +95,11 @@ JavaScript Updates
 
 I used the following resources to help guide me to complete the portfolio project:
 
-- [26 best color combinations for your next design](https://webflow.com/blog/best-color-combinations)
 - [How to take a full page screenshot with a hidden Chrome shortcut](https://zapier.com/blog/full-page-screenshots-in-chrome/)
-- [A simple guide to HTML head elements](https://htmlhead.dev/#:~:text=Valid%20elements%20include%20meta,and%20rendered%2C%20by%20web%20technologies.)
-- [HTML 'a' tag](https://www.w3schools.com/tags/tag_a.asp)
-- [HTML - Email Links](https://www.tutorialspoint.com/html/html_email_links.htm)
-- [A Beginner's Guide to HTML Accessibility](https://blog.hubspot.com/website/html-accessibility)
-- [HTML: A good basis for accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
-- [HTML Comments: How to Use Them](https://blog.hubspot.com/website/comment-out-in-html#:~:text=To%20leave%20a%20comment%20in,with%20a%20team%20of%20developers.)
-- [HTML <img> Tag](https://www.w3schools.com/tags/tag_nav.asp)
-- [HTML Images Syntax](https://www.w3schools.com/html/html_images.asp)
-- [HTML 'aside' Tag](https://www.w3schools.com/tags/tag_aside.asp)
-- [div: The Content Division Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
-- [span: The Content Span element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-- [Hero Image](https://www.optimizely.com/optimization-glossary/hero-image/#:~:text=A%20hero%20image%20is%20a,Source%3A%20Balsamiq)
-- [Placehold.jp](https://placehold.jp/en.html)
-- [CSS Tutorial](https://www.w3schools.com/css/)
-- [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- [:root pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
-- [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
-- [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
-- [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+- [JavaScript Tutorial](https://www.w3schools.com/js/)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
+- [Password Special Characters](https://owasp.org/www-community/password-special-characters)
 
-I used my hero image using the following source:
-- [Coding Background Image by Alexandru Acea](https://unsplash.com/photos/XEB8y0nRRP4)
 
 ## License
 

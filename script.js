@@ -1,14 +1,21 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Set variables for everything
+// Set variables declarations
 
-var passwordLength;
+var confirmPasswordLength = "";
 var confirmLower;
 var confirmUpper;
 var confirmNumeric;
 var confirmSpecial;
-var userPrompts;
+
+// Variable Arrays
+
+var lowerCaseAlphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
+var upperCaseAlphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+var numericCharacters = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
+// Excluded double quote, backslash, underscore, grave accent (backtick) special characters from this array
+var specialCharacters = ["!", "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "]", "^", "{", "|", "}", "~"];
 
 // Write password to the #password input
 function writePassword() {

@@ -101,7 +101,8 @@ I used the following resources to help guide me to complete the portfolio projec
 - [Password Special Characters](https://owasp.org/www-community/password-special-characters)
 - [Window prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp)
 - [JavaScript While Loop](https://www.w3schools.com/js/js_loop_while.asp)
-
+- [JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp)
+- [JavaScript For Loop](https://www.w3schools.com/js/js_loop_for.asp)
 
 ## License
 

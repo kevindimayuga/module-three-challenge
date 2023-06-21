@@ -43,7 +43,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Webpage Screenshot
 
-![module two challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-two-challenge_.png)
+![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-two-challenge_.png)
 
 ## Table of Contents
 

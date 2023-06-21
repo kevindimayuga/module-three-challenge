@@ -99,6 +99,8 @@ I used the following resources to help guide me to complete the portfolio projec
 - [JavaScript Tutorial](https://www.w3schools.com/js/)
 - [CSS and JavaScript accessibility best practices](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
 - [Password Special Characters](https://owasp.org/www-community/password-special-characters)
+- [Window prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp)
+- [JavaScript While Loop](https://www.w3schools.com/js/js_loop_while.asp)
 
 
 ## License

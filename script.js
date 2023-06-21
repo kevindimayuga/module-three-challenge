@@ -24,9 +24,17 @@ function generatePassword() {
   
   // This while loop will loop through a block of code as long as the specified condition below is true
   while(confirmPasswordLength <= 7 || confirmPasswordLength >= 129) {
-    alert("Your password length must be between 8-128 characters. Please try again");
+    alert("Your password length must be between 8-128 characters. Please try again.");
     var confirmPasswordLength = (prompt("How many characters would you like your password to contain (between 8-128 characters)?"));
-    } 
+    }
+
+    // These will prompt the user to confirm what criteria they would like or not like in their randomly-generated password
+    var confirmLower = confirm("Click OK to confirm if you would like your password to contain lowercase alphabet characters");
+    var confirmUpper = confirm("Click OK to confirm if you would like your password to contain uppercase alphabet characters");
+    var confirmNumeric = confirm("Click OK to confirm if you would like your password to contain numerical characters");
+    var confirmSpecial = confirm("Click OK to confirm if you would like your password to contain special characters");
+    
+
 }
 
 // Write password to the #password input

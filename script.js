@@ -22,7 +22,7 @@ var specialCharacters = ["!", "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", 
 function generatePassword() {
   var confirmPasswordLength = (prompt("How many characters would you like your password to contain (between 8-128 characters)?"));
   
-  // This while loop will loop through a block of code as long as the specified condition below is true
+  // This while loop will loop until the user picks a password within the condition below
   while(confirmPasswordLength <= 7 || confirmPasswordLength >= 129) {
     alert("Your password length must be between 8-128 characters. Please try again.");
     var confirmPasswordLength = (prompt("How many characters would you like your password to contain (between 8-128 characters)?"));
@@ -33,7 +33,15 @@ function generatePassword() {
     var confirmUpper = confirm("Click OK to confirm if you would like your password to contain uppercase alphabet characters");
     var confirmNumeric = confirm("Click OK to confirm if you would like your password to contain numerical characters");
     var confirmSpecial = confirm("Click OK to confirm if you would like your password to contain special characters");
-    
+  
+  // This while loop will loop through until the user picks at least one of the following criteria to be a part of their password
+  while(confirmLower === false && confirmUpper === false && confirmNumeric === false && confirmSpecial === false) {
+    alert("You must choose at least one of the criteria to move forward with the random password generation");
+    var confirmLower = confirm("Click OK to confirm if you would like your password to contain lowercase alphabet characters");
+    var confirmUpper = confirm("Click OK to confirm if you would like your password to contain uppercase alphabet characters");
+    var confirmNumeric = confirm("Click OK to confirm if you would like your password to contain numerical characters");
+    var confirmSpecial = confirm("Click OK to confirm if you would like your password to contain special characters");
+  }
 
 }
 

@@ -43,7 +43,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Webpage Screenshot
 
-![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_password-generator-kd.png)
+![password generator webpage screenshot](./assets/images/kevindimayuga.github.io_password-generator-kd.png)
 
 ## Table of Contents
 

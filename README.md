@@ -1,4 +1,4 @@
-# Module 3 Challenge - JavaScript Password Generator
+# Password Generator
 
 This repo is for module three's challenge assignment.
 
@@ -38,12 +38,12 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Accessing the Repo or Webpage:
 
-- GitHub Repo URL: https://github.com/kevindimayuga/module-three-challenge
-- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/module-three-challenge/
+- GitHub Repo URL: https://github.com/kevindimayuga/password-generator-kd
+- GitHub Pages WebPage Deployment URL: https://kevindimayuga.github.io/password-generator-kd/
 
 ## Webpage Screenshot
 
-![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_module-three-challenge.png)
+![module three challenge webpage screenshot](./assets/images/kevindimayuga.github.io_password-generator-kd.png)
 
 ## Table of Contents
 

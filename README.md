@@ -1,6 +1,6 @@
 # Password Generator
 
-This repo is for module three's challenge assignment.
+M3 - This repo is a Password Generator application that will generate a random password for users based on criteria they select.
 
 ## Description
 
